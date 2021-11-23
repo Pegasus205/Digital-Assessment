@@ -8,6 +8,7 @@
     android:backgroundTint="#1933DC"
     app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
+    //Adds in an image and I will be able to insert transparent buttons behind the text where needed
     <ImageView
         android:id="@+id/imageView4"
         android:layout_width="wrap_content"
